@@ -1,5 +1,5 @@
 # GRADERS ATTENTION TO THIS
-IN ORDER TO SEE MY PLOT YOU HAVE TO ENTER TO THIS HTML PREVIEW https://htmlpreview.github.io/?https://github.com/angelgr29/RepData_PeerAssessment1/blob/master/Project-Assignment-.html
+IN ORDER TO SEE MY HMTL WITH ALL THE OUTPUT YOU HAVE TO ENTER TO THIS HTML PREVIEW https://htmlpreview.github.io/?https://github.com/angelgr29/RepData_PeerAssessment1/blob/master/Project-Assignment-.html
 
 
 
