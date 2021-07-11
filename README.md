@@ -1,3 +1,8 @@
+# GRADERS ATTENTION TO THIS
+IN ORDER TO SEE MY PLOT YOU HAVE TO ENTER TO THIS HTML PREVIEW https://htmlpreview.github.io/?https://github.com/angelgr29/RepData_PeerAssessment1/blob/master/Project-Assignment-.html
+
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
